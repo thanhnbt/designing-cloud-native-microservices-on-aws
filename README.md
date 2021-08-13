@@ -4,6 +4,7 @@
 _Picture license-free from [Pexels](https://www.pexels.com/photo/background-beverage-breakfast-brown-414645/)_
 
 Building software is hard. Understanding the business needs of the software is even harder. In almost every software development project, there will always be some form of gap between the requirements of the business users and the actual implementation.
+Tạo ra phần mềm là 1 việc khó. Hiểu business cần gì ở phần mềm còn khó hơn. Trong hầu hết các dự án phần mềm, luôn luôn có những phần là GAP giữa yêu cầu của business users và thực tế triển khai.
 
 As a developer, knowing how to narrow this gap can help you go a long way to building applications that are relevant for the users. Using a Domain Driven Design approach, delivered via Event Storming, it can help to reduce the time it takes for everyone in the project team to understand a business domain model.
 
