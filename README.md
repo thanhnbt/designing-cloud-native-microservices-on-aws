@@ -65,9 +65,10 @@ Event Storming là một mô hình kỹ thuật nhanh, ligthweight, và thườn
 
 You can apply it practically on any technical or business domain, especially those that are large, complex, or both.
 
-## Whom is it for?
+## Whom is it for? Nó dành cho ai
 Event Storming isn't limited to just for the software development team. In fact, it is recommend to invite all the stakeholders, such as developers, domain experts, business decision makers etc to join the Event Storming workshop to collect viewpoints from each participants.
 
+Event Storming không giới hạn chỉ cho team phát triển phần mềm. Thực tế nó được gợi ý để mời tất cả stakeholders, như là developers, domain experts, business decision makers .... để tham gia Event Storming workshop để thu thập các quan điểm của các đối tượng tham gia.
 ## Event Storming Terms
 
 ![Event Storming](https://storage.googleapis.com/xebia-blog/1/2018/10/From-EventStorming-to-CoDDDing-New-frame-3.jpg)
