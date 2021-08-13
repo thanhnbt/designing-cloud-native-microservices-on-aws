@@ -1,11 +1,12 @@
 _[< back to EventStorming](../../README.md)_
 
-## Hands-on Events Exploring - a simple Event Storming Example
+## Hands-on Events Exploring - a simple Event Storming Example 
+Thực hành việc khai phá các sự kiện - một ví dụ đơn giản Event Storming
 
 If you are new to Event Storming, and don't know how to start the domain event exploring journey, you can try thinking about this:
-
+Nếu bạn là người mới về Event Storming, bạn không biết bắt đầu hành trình khai phá domain event, bạn có thể thử bắt đầu bằng ý nghĩ về việc này
 > Think about all the Events that had occurred from the time you woke up this morning, all the way until now as you are reading this post.
-
+NGhĩ về các sụ kiện đã xảy ra từ lúc bạn thức dậy vào buổi snags đến khi bạn đọc bài này :)
 List them down and put each one of these Events into the orange sticky notes.
 
 ![Timeline](../img/timelineformorning.png)
