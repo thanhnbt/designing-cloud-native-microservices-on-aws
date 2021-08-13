@@ -101,11 +101,13 @@ Hãy nhìn vào sơ đồ này, có một vài ghi chú với mục đích khác
 * **Eventual Consistent Business rules** aka Policy (Lilac sticky note) "Các quy tắc kinh doanh nhất quán" - Chính sách
     * Represents a process or business rules. Can come from external regulation and restrictions e.g. account login success/fail process logic.
      Trình bày một process hoặc quy tắc kinh doanh. Có thể đến từ các quy định bên ngoài và không được cho phép/hạn chế thực hiện ví dụ như logic của việc đăng nhập  seccess/fail.
-## Event Storming Benefits
+## Event Storming Benefits - Lợi ích của Event Storming 
 
 Business requirements can be very complex. It is often hard to find a fluent way to help the Product Owner and Development teams to collaborate effectively. Event storming is designed to be **efficient** and **fun**. By bringing key stakeholder into the same room, the process becomes:
+Các yêu cầu của business có thể rất phức tạp. Nó thường khó có thể tìm được 1 fluent way để giúp Product Owner và Development teams phối hợp hiệu quả. Event Storming được thiết kế để tạo tính hiệu quả và vui vẻ. Bằng việc đua các stakeholder quan trọng vào cùng 1 phòng và việc thực hiện ES sẽ diễn ra :
 
 - **Efficient:** Everyone coming together in the same room can make decisions and sort out differences quickly. To create a comprehensive business domain model, what used to take many weeks of email, phone call or meeting exchanges can be reduced to a single workshop.
+Hiệu quả : mọi người cùng nhau ở trong cùng 1 phòng để đưa ra quyết định và phân loại nhanh chóng các điểm khác nhau. Để tạo một mô hình business domain 1 ách toàn diện hơn là việc mất hàng tuần để email, phone call và các cuộc họp trao đổi có thể được rút ngắn chỉ trong 1 workshop.
 
 - **Simple:** Event Storming encourages the use of "Ubiquitous language" that both the technical and non-technical stakeholders can understand.
 
