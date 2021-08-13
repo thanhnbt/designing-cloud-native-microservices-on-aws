@@ -19,7 +19,10 @@ Note that you should use **past-tense** wording to explain what had happened - w
 
 Note the key events that remain on the board. These are the critical path towards "attending a meeting". Translating to software development, consider when a Product Owner pushes a long list of *wish list* into your Product Backlog, how would you go about prioritising them?
 
+Lưu ý rằng các sự kiện quan trọng vẫn còn trên bảng. Đây là các chỉ dẫn quan trọng để "tham dự 1 cuộc họp". Chuyển nó thành phát triển phần mềm, xem xét khi nào một Product Owner push một danh sách các "wish list" vào Product Backlog, làm thế nào bạn ưu tiên chúng ??
+
 This is where this *User Story Mapping* or *Impact Mapping* approach would be valuable. Pick up the most essential ones to work on as first sprint, then continue to explore the story and refine it.
+Đó là cách mà "User Story Mapping" hoặc "Impact Mapping" sẽ có giá trị. Chọn ra việc thiết yếu nhất để bắt đầu first sprint, sau đó tiếp tục khai phá câu chuyện và tinh chỉnh nó
 
 Next, let's take a look at a slightly more complex scenario.
 
