@@ -61,6 +61,8 @@ Khi bạn là developer, làm thế nào để biết cách thu hẹp khoảng c
 ## What is Event Storming? Event Stomrming là gì
 Event Storming is a **rapid**, **lightweight**, and often under-appreciated group modeling technique invented by Alberto Brandolini, that is **intense**, **fun**, and **useful** to **accelerate** project teams. It is typically offered as an interactive **workshop** and it is a synthesis of facilitated group learning practices from Gamestorming, leveraging on the principles of Domain Driven Design (DDD).
 
+Event Storming là một mô hình kỹ thuật nhanh, ligthweight, và thường group các under-appreciated (không được đánh giá đúng mức) được phát minh bở Alberto Brandolini, nó instence, fun và hữu ích để tăng tốc các project team. Nó thường được đề nghị như một interactive workshop  và nó là sự tổng hợp của facilicated group learning practices from Gamestorming, tận dụng các nguyên tắc của Domain Driven Design (DDD)
+
 You can apply it practically on any technical or business domain, especially those that are large, complex, or both.
 
 ## Whom is it for?
