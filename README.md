@@ -14,7 +14,7 @@ Khi bạn là developer, làm thế nào để biết cách thu hẹp khoảng c
 
 > Theory and Practice: Learning in the Real world cases - Lý thuyết và thực hành : Học từ case study thực tế.
 
-**Go through all of the learning journey, develop-->build-->deploy artifacts on AWS**
+**Go through all of the learning journey, develop-->build-->deploy artifacts on AWS** (Đi hết từng bước của hành trình, develop --> build --> deployment trên AWS)
 
 ![](docs/img/Coffeeshop-architecture.png)
 
@@ -58,7 +58,7 @@ Khi bạn là developer, làm thế nào để biết cách thu hẹp khoảng c
 # Event Storming
 ![image](docs/img/problemsolving.png)
 
-## What is Event Storming?
+## What is Event Storming? Event Stomrming là gì
 Event Storming is a **rapid**, **lightweight**, and often under-appreciated group modeling technique invented by Alberto Brandolini, that is **intense**, **fun**, and **useful** to **accelerate** project teams. It is typically offered as an interactive **workshop** and it is a synthesis of facilitated group learning practices from Gamestorming, leveraging on the principles of Domain Driven Design (DDD).
 
 You can apply it practically on any technical or business domain, especially those that are large, complex, or both.
