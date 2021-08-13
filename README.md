@@ -111,7 +111,10 @@ Hiệu quả : mọi người cùng nhau ở trong cùng 1 phòng để đưa ra
 
 - **Simple:** Event Storming encourages the use of "Ubiquitous language" that both the technical and non-technical stakeholders can understand.
 
+"Đơn giản" : ES khuyến khích sử dụng "Ubiquitous languague" điều đó làm cho technical hay non-technical stakeholders có thể hiểu được.
+
 - **Fun:** Domain modeling is fun! Stakeholders get hands-on experience to domain modeling which everyone can participate and interact with each other. It also provides more opportunities to exchange ideas and improve mindsharing, from various perspective across multiple roles.
+ "Fun" - Việc mô hình hóa domain rất thú vi. Các bên liên quan có được kinh nghiệm thực tế về domain model - mọi người đều có thể tham già và tương tác với nhau. Nó cũng cung cấp thêm nhiều cơ hội để chia sẻ/trao đổi về các ý tưởng và cải tiến, từ các góc nhìn khách của các vai trò .
 
 - **Effective:** Stakeholders are encouraged not to think about the data model, but about the business domain. This puts customers first and working backwards from there, achieves an outcome that is more relevant.
 
