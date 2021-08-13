@@ -1,8 +1,10 @@
 _[< back to 01 Hands-on Events Exploring](../01-hands-on-events-exploring/README.md)_
 
-# Cafe business scenario
+# Cafe business scenario - Kịch bản của việc kinh doanh cà phê
 
 Let's dive deeper into how Event Storming works using a simple scenario to walk through the process - **Getting a cup of coffee in a cafe.**
+
+Ta sẽ đi sâu vào làm thế nào ES works bằng cách sử dụng một kịch bản để đi qua từng bước thực hiện "Uống 1 tách coffee trong 1 quán cafe"
 
 *The following images are provided by pixabay with free license.*
 
