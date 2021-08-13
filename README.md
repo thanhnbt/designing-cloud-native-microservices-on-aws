@@ -76,18 +76,31 @@ Event Storming không giới hạn chỉ cho team phát triển phần mềm. Th
 > Reference from Kenny Bass - https://storage.googleapis.com/xebia-blog/1/2018/10/From-EventStorming-to-CoDDDing-New-frame-3.jpg
 
 Take a look on this diagram, there are a few colored sticky notes with different intention:
+Hãy nhìn vào sơ đồ này, có một vài ghi chú với mục đích khác nhau:
 
 * **Domain Events** (Orange sticky note) - Describes *what happened*. Represent facts that happened in a specific business context, written in past tense
+ ( Domain Events - màu cam : Mô tả "việc gì đã xảy ra". Biển diễn lại thực tế những gì đã diễn ra của một specific business context, được viết ở thì qk)
+ 
 * **Actions** aka Command (Blue sticky note) - Describes an *action* that caused the domain event. It is a request or intention, raised by a role or time or external system
-* **Information** (Green sticky note) - Describes the *supporting information* required to help make a decision to raise a command
-* **Consistent Business Rules** aka Aggregate (Yellow sticky note)
-    * Groups of Events or Actions that represent a specific business capability
-    * Has the responsibility to accept or fulfill the intention of command
-    * Should be in small scope
-    * And communicated by eventual consistency
-* **Eventual Consistent Business rules** aka Policy (Lilac sticky note)
-    * Represents a process or business rules. Can come from external regulation and restrictions e.g. account login success/fail process logic.
+(Action hay Command - màu blue - Mô tả lại "hành động" mà nguyên nhân của domain event . Đó là 1 yêu cầu hoặc ý định, được nêu ra bởi 1 vai trò hoặc thời gian hoặc hệ thống bên ngoài.
 
+* **Information** (Green sticky note) - Describes the *supporting information* required to help make a decision to raise a command
+( Information - green : Mô tả "thông tin hỗ trợ" được yêu cầu để hỗ trợ đưa ra một quyết định để đưa ra 1 command.)
+
+* **Consistent Business Rules** aka Aggregate (Yellow sticky note) "" 
+* "Các Quy định của Business không được thay đổi" hay Aggregate 
+    * Groups of Events or Actions that represent a specific business capability
+    (Nhóm các Events hoặc Actions mà đại diện cho một tình huống kinh doanh cụ thể)
+    * Has the responsibility to accept or fulfill the intention of command
+    (Có trách nhiệm chấp nhận hoặc thực hiện ý định của command)
+    * Should be in small scope
+    (Phải trong 1 phạm vi hẹp)
+    * And communicated by eventual consistency
+    (Và được truyền đạt/ trao đổi một cách nhât quán)
+    
+* **Eventual Consistent Business rules** aka Policy (Lilac sticky note) "Các quy tắc kinh doanh nhất quán" - Chính sách
+    * Represents a process or business rules. Can come from external regulation and restrictions e.g. account login success/fail process logic.
+     Trình bày một process hoặc quy tắc kinh doanh. Có thể đến từ các quy định bên ngoài và không được cho phép/hạn chế thực hiện ví dụ như logic của việc đăng nhập  seccess/fail.
 ## Event Storming Benefits
 
 Business requirements can be very complex. It is often hard to find a fluent way to help the Product Owner and Development teams to collaborate effectively. Event storming is designed to be **efficient** and **fun**. By bringing key stakeholder into the same room, the process becomes:
